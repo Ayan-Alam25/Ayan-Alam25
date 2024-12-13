@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ayan</h1>
-<p>A passionate fullstack developer from India 🇮🇳 !</p>  
+<p>A passionate fullstack developer from India 🇮🇳!</p>
 
 #### About Me
 - 🎓 Bachelor of Technology in Computer Science and Engineering (CSE)
