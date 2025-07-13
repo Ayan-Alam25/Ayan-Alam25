@@ -4,9 +4,19 @@
 
 ## 👋 About Me
 
-I'm Ayan Alam, a Full-Stack Developer passionate about building performant, scalable, and user-friendly web applications. I hold a degree in Computer Science and Engineering and love working with the MERN stack.  
-Currently, I'm exploring advanced patterns in Next.js, TypeScript, and system design. I enjoy turning complex ideas into simple, elegant solutions and always strive to write clean, maintainable code.  
-I’m open to collaborating on impactful, real-world projects and always excited to learn something new.
+I'm Ayan Alam, a Full-Stack Developer passionate about building performant, scalable, and user-friendly web applications.  
+With a Computer Science degree and expertise in MERN/Next.js, I architect solutions that marry elegance with functionality.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+✨ **Behind the Scenes:** While my public activity is modest,  
+**90%+ of my commits** live in **private repositories** 🔐  
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+
+Currently obsessing over:  
+⚡ TypeScript patterns • 🏗️ System design • 🎨 Framer Motion animations  
+
+Let's build something remarkable together!
+
 
 
 [![Let's Connect](https://custom-icon-badges.demolab.com/badge/-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-alam-2052a9228/)
@@ -15,11 +25,10 @@ I’m open to collaborating on impactful, real-world projects and always excited
 
 </div>
 
-## 🛠️ 𝙼𝚢 𝚃𝚎𝚌𝚑 𝚃𝚘𝚘𝚕𝚋𝚘𝚡
+## 🛠️ My Tech Toolbox
 
-### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙰𝚛𝚜𝚎𝚗𝚊𝚕
+### Frontend Arsenal
 <div align="center">
-
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
@@ -29,11 +38,12 @@ I’m open to collaborating on impactful, real-world projects and always excited
 </div>
 
 ### Backend Suite
-
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -46,6 +56,7 @@ I’m open to collaborating on impactful, real-world projects and always excited
 <div align="center">
 
 ![DevOps Tools](https://skillicons.dev/icons?i=git,docker,aws,githubactions,vercel,netlify,postman,vscode)
+
 </div>
 
 ## 📈 GitHub Metrics
